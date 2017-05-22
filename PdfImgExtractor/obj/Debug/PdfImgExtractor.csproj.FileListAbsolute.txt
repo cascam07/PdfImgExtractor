@@ -1,0 +1,8 @@
+c:\users\case159\documents\visual studio 2013\Projects\PdfImgExtractor\PdfImgExtractor\bin\Debug\PdfImgExtractor.exe.config
+c:\users\case159\documents\visual studio 2013\Projects\PdfImgExtractor\PdfImgExtractor\bin\Debug\PdfImgExtractor.exe
+c:\users\case159\documents\visual studio 2013\Projects\PdfImgExtractor\PdfImgExtractor\bin\Debug\PdfImgExtractor.pdb
+c:\users\case159\documents\visual studio 2013\Projects\PdfImgExtractor\PdfImgExtractor\bin\Debug\itextsharp.dll
+c:\users\case159\documents\visual studio 2013\Projects\PdfImgExtractor\PdfImgExtractor\bin\Debug\itextsharp.xml
+c:\users\case159\documents\visual studio 2013\Projects\PdfImgExtractor\PdfImgExtractor\obj\Debug\PdfImgExtractor.csprojResolveAssemblyReference.cache
+c:\users\case159\documents\visual studio 2013\Projects\PdfImgExtractor\PdfImgExtractor\obj\Debug\PdfImgExtractor.exe
+c:\users\case159\documents\visual studio 2013\Projects\PdfImgExtractor\PdfImgExtractor\obj\Debug\PdfImgExtractor.pdb
